@@ -13,7 +13,6 @@
 
 ```objectivec
 Ввод
-
 1
 1
 2
@@ -22,14 +21,12 @@
 
 ```objectivec
 Вывод
-
 YES
 ```
 #### Пример 2 ####
 
 ```objectivec
 Ввод
-
 1
 1
 2
@@ -38,14 +35,12 @@ YES
 
 ```objectivec
 Вывод
-
 NO
 ```
 #### Пример 3 ####
 
 ```objectivec
 Ввод
-
 5
 6
 3
@@ -54,7 +49,6 @@ NO
 
 ```objectivec
 Вывод
-
 NO
 ```
 
