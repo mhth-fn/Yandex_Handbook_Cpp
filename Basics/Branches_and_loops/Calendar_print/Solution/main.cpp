@@ -12,11 +12,12 @@ int main(){
       if (current_day < 10 && i != 0){
 				std::cout << " ";
       }
-      std::cout << current_day;
-    } else{
+		std::cout << current_day;
+		} else{
 			std::cout << "  ";
   	}
-  	if (i % 7 == 0 && i != 0){
+
+		if (i % 7 == 0 && i != 0){
 			std::cout << '\n';
 		} else{
 			std::cout << " ";
