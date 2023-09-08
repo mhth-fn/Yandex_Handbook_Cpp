@@ -1,7 +1,7 @@
 ## ArgMax в матрице ##
 Вам требуется написать на C++ функцию со следующим заголовком:
 ```cpp
-    std::pair<size_t, size_t> MatrixArgMax(const std::vector<std::vector<int>>& matrix);
+std::pair<size_t, size_t> MatrixArgMax(const std::vector<std::vector<int>>& matrix);
 ```
 Функция должна вернуть пару из индексов максимального элемента в матрице. Если максимальных элементов несколько, то нужно вернуть наименьшую такую пару.
 #### Формат ввода ####
