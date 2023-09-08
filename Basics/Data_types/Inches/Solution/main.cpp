@@ -1,11 +1,10 @@
 #include <iostream>
 
 int main(){
+	double length;
 
-    double length;
- 
-    std::cin >> length;
-    std::cout << length / 2.54;
+	std::cin >> length;
+	std::cout << length / 2.54;
 
-    return 0;
+	return 0;
 }
